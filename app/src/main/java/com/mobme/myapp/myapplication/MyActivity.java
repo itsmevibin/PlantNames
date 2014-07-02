@@ -52,6 +52,7 @@ public class MyActivity extends Activity {
         plant_name_array.add("Drumstick");
         plant_name_array.add("Earth Gall");
         plant_name_array.add("Fellenwort");
+        plant_name_array.add("mango");
 
         for (int i = 0; i < plant_name_array.size(); i++)
             search_plant_name_array.add(plant_name_array.get(i));
